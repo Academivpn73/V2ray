@@ -156,3 +156,12 @@ vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegra
 hysteria2://bugfreenet%3AnPyizH8EsskiBiA77I18AiEKO6Pvhdpv@195.254.165.129:1020?security=tls&obfs=salamander&obfs-password=xWohnzWhd3zkjxlMSwdgbGbAjtbAFzID&insecure=1&pinSHA256=32%3A20%3A66%3AB6%3ADD%3A7C%3AA8%3A7D%3A63%3A94%3A10%3A7D%3ACB%3A5D%3A06%3AFD%3A90%3A83%3A02%3A32%3A30%3A49%3A32%3A15%3A5F%3ADD%3A80%3A47%3AF2%3AC1%3A27%3AC2&sni=miro.com#Telegram%3A%40Academi_vpn
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?security=tls&insecure=1&sni=www.bing.com#Telegram%3A%40Academi_vpn
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#Telegram%3A%40Academi_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram%3A%20%40Academi_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram%3A%20%40Academi_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram%3A%20%40Academi_vpn
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=%2FFree-CF-Proxy-AT4&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#Telegram%3A%20%40Academi_vpn
+vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Telegram%3A%20%40Academi_vpn
+vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#Telegram%3A%20%40Academi_vpn
+trojan://slch2024@195.13.54.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Telegram%3A%20%40Academi_vpn
+trojan://telegram-id-privatevpns@18.194.230.54:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram%3A%20%40Academi_vpn
+vless://cd050e98-424c-405b-82fb-12f2b0b8fba6@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Telegram%3A%20%40Academi_vpn
